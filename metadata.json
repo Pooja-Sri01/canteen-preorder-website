@@ -1,0 +1,5 @@
+{
+  "name": "Canteen Food Pre-Order System",
+  "description": "A vibrant and animated web application for pre-ordering food from various canteens. Users can browse menus, add items to a cart, place orders, and provide feedback. An admin dashboard is available to manage food items and view ratings.",
+  "requestFramePermissions": []
+}
